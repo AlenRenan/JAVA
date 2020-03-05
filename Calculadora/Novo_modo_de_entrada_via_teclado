@@ -27,3 +27,5 @@ public class TestaCalc
 
     }
 }
+
+//A entrada no termina só pode usar virgula no lugar de ponto
