@@ -19,10 +19,10 @@ public class TestaCalc
        double som = calc.somar (valor1, valor2);
        double sub = calc.subtrair (valor1, valor2);
        
-      	System.out.printf ("A divisão ente %d e %d = %d", valor1 , valor2, calc.dividir(valor1,valor2));
-	System.out.printf ("A soma ente %d e %d = %d", valor1, valor2, calc.somar(valor1,valor2));
-	System.out.printf ("A multiplicacao ente %d e %d = %d", valor1, valor2, calc.multiplicar(valor1,valor2));
-	System.out.printf ("A subtracao ente %d e %d = %d", valor1, valor2, calc.subtrair(valor1,valor2));
+      	System.out.printf ("A divisão ente %f e %f = %f", valor1 , valor2, calc.dividir(valor1,valor2));
+	System.out.printf ("A soma ente %f e %f = %f", valor1, valor2, calc.somar(valor1,valor2));
+	System.out.printf ("A multiplicacao ente %f e %f = %f", valor1, valor2, calc.multiplicar(valor1,valor2));
+	System.out.printf ("A subtracao ente %f e %f = %f", valor1, valor2, calc.subtrair(valor1,valor2));
        
        
 }
