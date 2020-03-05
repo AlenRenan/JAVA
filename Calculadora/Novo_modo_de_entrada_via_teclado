@@ -1,0 +1,29 @@
+import java.util.Scanner; //Utilizando uma classe da biblioteca do java
+public class TestaCalc
+{
+    public static void main(String args[]){
+        //Cria uma calculadora
+        Calculadora calc; //Variável do tipo Calculadora
+
+        //Instancia um objeto do tipo calculadora
+        calc = new Calculadora();
+
+       
+        //Declaração da variável do teclado
+        Scanner teclado = new Scanner(System.in);
+
+        double valor1;
+        double valor2;
+
+        System.out.println ("Forneca o primeiro valor: ");
+        valor1 = teclado.nextDouble();
+        System.out.println ("Forenca o segundo valor: ");
+        valor2 = teclado.nextDouble();
+
+        System.out.printf ("\nA divisão ente %f e %f = %f", valor1 , valor2, calc.dividir(valor1,valor2));
+        System.out.printf("\nA soma ente %f e %f = %f", valor1, valor2, calc.somar(valor1,valor2));
+        System.out.printf ("\nA multiplicacao ente %f e %f = %f", valor1, valor2, calc.multiplicar(valor1,valor2));
+        System.out.printf ("\nA subtracao ente %f e %f = %f", valor1, valor2, calc.subtrair(valor1,valor2));
+
+    }
+}
