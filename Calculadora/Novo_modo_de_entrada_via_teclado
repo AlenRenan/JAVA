@@ -28,4 +28,4 @@ public class TestaCalc
     }
 }
 
-//A entrada no termina só pode usar virgula no lugar de ponto
+//A entrada no terminal só pode usar virgula no lugar de ponto
