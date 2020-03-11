@@ -20,9 +20,9 @@ public class ContaMedia {
 
         media = nt.calcularMedia(ava1, ava2);     
         if (media >= 5) {
-        System.out.printf("%s voce foi aprovado", nome);
+        System.out.printf("%s voce foi aprovado com media %.2f", nome, media);
     } else {
-      System.out.printf("%s voce foi reprovado",nome);
+      System.out.printf("%s voce foi reprovado com media %.2f", nome, media);
 }
 }
 }
