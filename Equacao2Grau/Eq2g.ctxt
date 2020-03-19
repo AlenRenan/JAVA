@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Eq2g
+comment1.params=aa\ bb\ cc
+comment1.target=Eq2g(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularDelta()
+comment3.params=
+comment3.target=double\ calcularRaiz1()
+comment4.params=
+comment4.target=double\ calcularRaiz2()
+numComments=5
