@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Contas
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ contas\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=salario\ horas
+comment1.target=Contas(double,\ double)
+comment2.params=
+comment2.target=double\ calcularBruto()
+comment3.params=
+comment3.target=double\ getBruto()
+comment4.params=
+comment4.target=double\ calcularPorcento()
+comment5.params=
+comment5.target=double\ calcularExtras()
+comment6.params=
+comment6.target=double\ calcExtras()
+comment7.params=
+comment7.target=double\ getExtras()
+numComments=8
