@@ -12,35 +12,16 @@ public class Contas {
         this.horas = horas;
         this.quinze = quinze; 
     }
-
+    //Calculo do Salário
     double calcularBruto (){
         double bruto = salario * horas;
         return bruto;
-
     }
-
-    double  getBruto (){
-        return bruto;
-    }
-
-    double calcularPorcento (){
-        double quinze = bruto * 0.15;
-        return quinze;
-    }
-
-    double calcularExtras (){
-        double extras = bruto + quinze;
-        return extras;
-    }
-
+    //Calculo das Horas Extras
     double calcExtras (){
         double bruto = salario * horas;
         double quinze = bruto * 0.15;
         double extras = bruto + quinze;
-        return extras;
-    }
-
-    double getExtras (){
         return extras;
     }
 }

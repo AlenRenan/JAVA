@@ -11,8 +11,8 @@ public class RepetiçãoDoWhile {
         int i = 1;
 
         do {
-                System.out.println ("Nome " + i + ": " + nome);
-                i++;//i = i + 1
-            }while ( i <=5);
+            System.out.println ("Nome " + i + ": " + nome);
+            i++;//i = i + 1
+        }while ( i <=5);
     }
 }
