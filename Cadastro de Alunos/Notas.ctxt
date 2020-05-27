@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Notas
+comment1.params=s
+comment1.target=float\ lerNota(java.lang.String)
+comment1.text=\r\n\ Ler\ nota\ pelo\ teclado\r\n\r\n\ @param\ s\ texto\ \r\n\ @return\ float\ nota\ lida\ pelo\ teclado\r\n
+comment2.params=p\ a
+comment2.target=float\ calcularN(float,\ float)
+comment2.text=\r\n\ Calcular\ notas\ N1\ e\ N2\r\n\r\n\ @param\ p\ float\ nota\ da\ prova\r\n\ @param\ a\ float\ nota\ da\ atividade\r\n\ @return\ float\ avalicao\ resultante\r\n
+comment3.params=n1\ n2
+comment3.target=float\ calcularNF(float,\ float)
+comment3.text=\r\n\ Calcula\ media\ final\r\n\r\n\ @param\ n1\ float\ nota\ n1\r\n\ @param\ n2\ float\ nota\ n2\r\n\ @return\ float\ media\ final\r\n
+comment4.params=p1\ a1\ n1\ p2\ a2\ n2\ nf
+comment4.target=java.lang.String\ retornarNotas(float,\ float,\ float,\ float,\ float,\ float,\ float)
+comment4.text=\r\n\ Mostrar\ as\ notas\r\n\r\n\ @param\ p1\ float\ nota\ p1\r\n\ @param\ a1\ float\ nota\ a1\r\n\ @param\ p2\ float\ nota\ p2\r\n\ @param\ a2\ float\ nota\ p2\r\n\ @return\ String\ todas\ as\ notas\r\n
+comment5.params=
+comment5.target=void\ imprimirCab()
+comment5.text=\r\n\ Method\ imprimirCab\r\n\ \ Imprime\ o\ cabecalho\ do\ relatorio\r\n
+comment6.params=
+comment6.target=void\ imprimirRod()
+comment6.text=\r\n\ Method\ imprimirRod\r\n\ \ Imprime\ o\ rodape\ do\ relatorio\r\n
+comment7.params=nome\ p1\ a1\ n1\ p2\ a2\ n2\ nf
+comment7.target=void\ imprimirNotas(java.lang.String,\ float,\ float,\ float,\ float,\ float,\ float,\ float)
+comment7.text=\r\n\ Mostra\ nome\ e\ notas\r\n\r\n\ @param\ p1\ float\ nota\ p1\r\n\ @param\ a1\ float\ nota\ a1\r\n\ @param\ p2\ float\ nota\ p2\r\n\ @param\ a2\ float\ nota\ p2\r\n\ @return\ String\ todas\ as\ notas\r\n
+numComments=8

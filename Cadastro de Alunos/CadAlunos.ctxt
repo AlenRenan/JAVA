@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CadAlunos
+comment1.params=qtdeAlunos
+comment1.target=CadAlunos(int)
+comment1.text=\r\n\ CadAlunos\ Constructor\r\n\r\n\ @param\ qtdeAlunos\ int\ quantidade\ de\ alunos\r\n
+comment2.params=
+comment2.target=void\ iniciarCadastro()
+comment2.text=\r\n\ Method\ iniciarCadastro\r\n\ Inicia\ array\ de\ nomes\ com\ ""\r\n\r\n
+comment3.params=
+comment3.target=int\ buscarPosicaoLivre()
+comment3.text=\r\n\ Method\ buscarPosicaoLivre\r\n\ retorna\ o\ indice\ da\ posicao\ livre\ e\ -1\ se\ nao\ achar.\r\n\r\n\ @return\ int\ -\ posicao\ livre\ ou\ -1\ (nao\ achou)\r\n
+comment4.params=
+comment4.target=boolean\ inserir()
+comment4.text=\r\n\ Inserir\ aluno\ no\ cadastro\r\n\r\n
+comment5.params=
+comment5.target=void\ listar()
+comment5.text=\r\n\ Method\ listar\r\n\ Mostra\ todos\ os\ alunos\ e\ suas\ respectivas\ notas\r\n\r\n
+comment6.params=nome
+comment6.target=int\ buscarAluno(java.lang.String)
+comment6.text=\r\n\ Method\ buscarAluno\r\n\ retorna\ o\ indice\ do\ aluno\ encontrado\ e\ -1\ se\ nao\ achar.\r\n\r\n\ @return\ int\ -\ indice\ do\ aluno\ encomtrado\ ou\ -1\ (nao\ achou)\r\n
+comment7.params=nomeR
+comment7.target=boolean\ remover(java.lang.String)
+comment7.text=\r\n\ Method\ remover\r\n\ Remove\ aluno\ do\ cadastro\r\n\r\n\ @param\ nomeR\ Strin\ -\ nome\ do\ aluno\ a\ ser\ removido\r\n\ @return\ boolean\ -\ true\ se\ conseguir\ e\ false\ se\ nao\ conseguir\r\n
+comment8.params=
+comment8.target=boolean\ editarAluno()
+numComments=9
