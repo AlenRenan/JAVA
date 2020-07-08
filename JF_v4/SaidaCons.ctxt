@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SaidaCons
+comment1.params=dica
+comment1.target=void\ mostrarDica(java.lang.String)
+comment1.text=\r\n\ Method\ mostrarDica\r\n\r\n\ @param\ dica\ String\ palavra\ dica\ do\ jogo\ da\ forca\r\n
+comment2.params=palavra
+comment2.target=void\ mostrarPalavra(java.lang.String)
+comment2.text=\r\n\ Method\ mostrarPalavra\r\n\r\n\ @param\ palavra\ String\ palavra\ a\ ser\ adivinhada\ do\ jogo\ da\ forca\r\n
+comment3.params=dica\ palavra
+comment3.target=void\ mostrarTela(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Method\ mostrarTela\r\n\r\n\ @param\ dica\ String\ palavra\ dica\r\n\ @param\ palavra\ String\ palavra\ a\ ser\ adivinhada\r\n
+comment4.params=palavras
+comment4.target=void\ mostrarPalavras(java.lang.String)
+comment4.text=\r\n\ Method\ mostrarPalavras\r\n\r\n\ @param\ palavras\ String\ todas\ as\ palavras\ do\ jogo\ da\ forca\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Palavras
+comment1.params=
+comment1.target=void\ gerarDica()
+comment2.params=
+comment2.target=java.lang.String\ retornarDica()
+comment3.params=
+comment3.target=void\ gerarPalavra()
+comment4.params=
+comment4.target=java.lang.String\ retornarPalavraVisivel()
+comment5.params=
+comment5.target=java.lang.String\ retornarPalavraInvisivel()
+comment6.params=letra
+comment6.target=java.lang.String\ retornarPalavraIncompleta(char)
+comment7.params=letra
+comment7.target=boolean\ verificarLetra(char)
+comment8.params=
+comment8.target=java.lang.String\ retornarPalavras()
+numComments=9

@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/jdk-11.0.2/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/home/jarakaki/bluej/lib/bluejcore.jar:/home/jarakaki/bluej/lib/junit-4.11.jar:/home/jarakaki/bluej/lib/hamcrest-core-1.3.jar:/home/jarakaki/bluej/lib/lang-stride.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.base.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.controls.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.fxml.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.graphics.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.media.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.properties.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.swing.jar:/home/jarakaki/bluej/lib/javafx/lib/javafx.web.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx.media.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx.web.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx.graphics.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx.swing.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx.fxml.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx.controls.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx.base.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/javafx-sdk-11.0.2/lib/javafx-swt.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LED/20200611/JSCons_Com_Jar/EDs_v1.jar:/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3
+-d
+/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/Palavras.java
+<---- end of javadoc command ---->
+Loading source file /home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/Palavras.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/doc/Palavras.html...
+Generating /home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/doc/package-summary.html...
+Generating /home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/doc/allclasses.html...
+Generating /home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/doc/allclasses.html...
+Generating /home/jarakaki/Dropbox/2020/1oSemestre/Aulas/LIC/LIC_lab/Material/MA1B/20200617/JF_v3/doc/index.html...

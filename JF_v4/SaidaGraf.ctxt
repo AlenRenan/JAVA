@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SaidaGraf
+comment1.params=dica
+comment1.target=void\ mostrarDica(java.lang.String)
+comment2.params=palavra
+comment2.target=void\ mostrarPalavra(java.lang.String)
+comment3.params=palavras
+comment3.target=void\ mostrarPalavras(java.lang.String)
+comment4.params=dica\ palavra
+comment4.target=void\ mostrarTela(java.lang.String,\ java.lang.String)
+numComments=5

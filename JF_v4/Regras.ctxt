@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Regras
+comment1.params=palavra\ palavraFornecida
+comment1.target=boolean\ verificarPalavra(java.lang.String,\ java.lang.String)
+numComments=2
